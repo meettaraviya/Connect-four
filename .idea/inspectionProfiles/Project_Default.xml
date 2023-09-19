@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pandas" />
+          <option value="cerebro_box_composition_model.utils.audit_trail_util.*" />
+          <option value="numpy" />
+          <option value="cerebro_box_composition_model.config.*" />
+          <option value="cerebro_box_composition_model.filters.constants.*" />
+          <option value="simulations.curation_exp.pspw_science_sagmaker_inference_base_model" />
+          <option value="cerebro_box_composition_model.data.pspw_science_sagmaker_inference_base_model" />
+          <option value="cerebro_box_composition_model.utils.data_lake_client.maglin_data_lake_service_lambda_python_library" />
+          <option value="cerebro_box_composition_model.utils.target_distribution_generator.*" />
+          <option value="cerebro_box_composition_model.run.com" />
+          <option value="cerebro_box_composition_model.filters.past_picks_filter.pspw_model_training_python_library" />
+          <option value="simulations.utils.com" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
